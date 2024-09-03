@@ -28,3 +28,6 @@ Python
 
 Data Visualization
 - make informed decisions about accessible design in scientific visualization, including colour map choice and interpolation methods
+
+## Codespaces
+To work in a codespace, click on the green **<> Code** button at the top right of this repository’s GitHub page. Then click on the green button that says **Create codespace on main** to launch your codespace.
